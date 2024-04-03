@@ -1,1 +1,2 @@
-# HW
+git Kraken
+Study
