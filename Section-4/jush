@@ -1,0 +1,6 @@
+Remove
+sudo apt remove libjs-jquery-jush
+Remove dependency:
+sudo apt autoremove
+Remove:
+sudo apt autoremove --purge libjs-jquery-jush

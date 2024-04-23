@@ -1,0 +1,2 @@
+Install nginx:
+sudo apt install -f nginx

@@ -1,0 +1,4 @@
+Depends
+Anonymaizer depend of Package libevent and libssl
+Need install Package libevent-2.1-6
+Need install Package libssl1.1

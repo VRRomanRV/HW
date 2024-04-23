@@ -1,0 +1,5 @@
+which apt-add-repository
+whatis /usr/bin/apt-add-repository
+open source.list delete string jammy-security universe
+Remove:
+sudo apt-add-repository -r 'deb-src http://security.ubuntu.com/ubuntu'
