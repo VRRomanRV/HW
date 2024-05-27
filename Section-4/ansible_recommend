@@ -1,0 +1,9 @@
+Reccomend:
+python3-argcomplete;
+python3-jmespath;
+python3-kerberos;
+python3-libcloud
+python3-selinus;
+python3-winrm;
+xmltodict;
+End;

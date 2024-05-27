@@ -1,0 +1,13 @@
+Depends:
+openssh-client
+python3-cryptography
+python3-jinja2
+python3-packaging
+python3-yaml
+python3-any
+thon3-pycrypdom
+python3-distutils
+python3-dnspython
+python3-httplib2
+python3-netaddr
+End;

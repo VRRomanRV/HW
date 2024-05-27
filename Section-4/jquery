@@ -1,0 +1,4 @@
+Search:
+apt search jquery
+Install:
+sudo apt install -f libjs-jquery-jush
