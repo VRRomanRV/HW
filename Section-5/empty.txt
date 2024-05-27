@@ -1,0 +1,2 @@
+/home/max/empty/file777:U got me
+grep "[A-Z , a-z , 0-9]" ~/empty/file.txt* 1>~/HW/Section-5/empty.txt
