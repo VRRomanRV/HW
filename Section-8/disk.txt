@@ -1,0 +1,6 @@
+sudo gdisk /dev/vdb
+Command : d
+(Partition number 1-5) : 1        #  If there is more than one Partition
+Command : w
+Do you wantto proceed (Y\N) : y
+# The operation has completed succesfully.
