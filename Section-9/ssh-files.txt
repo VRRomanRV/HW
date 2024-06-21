@@ -1,0 +1,2 @@
+sudo lsof -p 723 | grep ssh | grep txt
+# sudo lsof -c ssh | grep txt
